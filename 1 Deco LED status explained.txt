@@ -1,0 +1,7 @@
+LED status on Deco explained as follows, 
+LED off meaning not powered on
+Solid yellow meaning booting
+Solid red meaning no Internet on Main Deco
+Flashing blue means that this unit is ready to be setup
+Solid green means that the Deco is working properly without issues
+For satellite Deco units, flashing red means that the satellite is disconnected from the main Deco, Main Deco does not have a flashing red state.

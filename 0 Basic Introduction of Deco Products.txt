@@ -1,0 +1,6 @@
+Basic Introduction of TP-Link’s Deco products.
+
+TP-Link's Deco is a product line of Whole Home Mesh Wi-Fi systems designed to provide reliable and seamless wireless overage throughout your home or office. It is a popular solution for eliminating dead zones, optimizing network performance, and ensuring a smooth and uninterrupted roaming experience across all devices.
+A Deco system consists of multiple Deco units, with one acting as the primary unit or main router, and the additional units serving as satellite units or extenders. Satellite units can be connected via Ethernet or wireless backhaul.
+In order to setup a Deco system, you will need a Deco APP installed on your phone. The Deco APP can be obtained from APP Store or Google Play.
+

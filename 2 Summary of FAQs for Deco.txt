@@ -1,0 +1,43 @@
+This document summarizes the link of FAQs for Deco products in a format of: 
+Title
+Link
+
+Deco Setup Walkthrough/Instruction
+https://www.tp-link.com/us/support/faq/2464/ 
+https://www.tp-link.com/us/support/faq/1592/ 
+
+How many Deco units can be used in one Deco Mesh network
+https://www.tp-link.com/us/support/faq/1588/ 
+
+Common questions on Wi-Fi 7 Mesh Deco Products
+https://www.tp-link.com/us/support/faq/3594/ 
+
+Different between Access Point mode and Router mode
+https://www.tp-link.com/us/support/faq/2399/ 
+
+General questions about Deco X50-Outdoor
+https://www.tp-link.com/us/support/faq/3611/ 
+
+General questions the PoE feature on Deco X50-PoE
+https://www.tp-link.com/us/support/faq/3484/ 
+
+Set a satellite Deco or new Deco as the Main Deco
+https://www.tp-link.com/us/support/faq/2400/ 
+
+Troubleshooting: having problems setting up the main Deco
+Having trouble setting up the main Deco
+https://www.tp-link.com/us/support/faq/2239/
+
+Troubleshooting: having problems setting up the satellite Deco
+Having trouble setting up the satellite Deco
+https://www.tp-link.com/us/support/faq/1447/ 
+
+Troubleshooting: slow Internet speed with Deco devices
+https://www.tp-link.com/us/support/faq/2429/ 
+
+Troubleshooting: Unstable connection on Deco network
+Troubleshooting: Red light on main Deco
+Troubleshooting: Flashing red light on satellite Deco
+Troubleshooting: Client devices not being able to connect to Deco network
+Troubleshooting: No Internet on Client devices even when Deco units are all green
+https://www.tp-link.com/us/support/faq/2428/ 
